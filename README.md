@@ -34,11 +34,11 @@
       - IP du PC (exemple: 192.168.1.6)
 
   ### Structure_du_Projet:
-    Côté_WebService: |
-    <img width="296" height="385" alt="image" src="https://github.com/user-attachments/assets/189043a8-f93e-45a4-9972-dc8650db8176" />
 
-   ### Côté_Android: |
-    <img width="456" height="792" alt="image" src="https://github.com/user-attachments/assets/406601fd-3442-46a9-950b-3f1c6a56227f" />
+<img width="295" height="349" alt="image" src="https://github.com/user-attachments/assets/a3aa2031-4cb3-498f-8883-0701f0aa73a5" />
+
+   ### Côté_Android: 
+<img width="471" height="817" alt="image" src="https://github.com/user-attachments/assets/54f963e8-0c2e-4050-9c58-1a639aa91a26" />
 
    ### Base_de_Données:
   ### Description: |
